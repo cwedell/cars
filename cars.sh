@@ -22,6 +22,6 @@ do
 			sort -n My_old_cars;;
 		3*)
 			echo "Goodbye"
-			continue=0
+			continue=0;;
 	esac
 done
